@@ -1,0 +1,14 @@
+Text Quest
+Version: 0.0.5
+Date: 4/28/2022
+
+Change Log:
+
+Added world map
+Added world camera
+Added sand, path, and tree tile
+Added collison detection system and worked out multiple bugs
+Fixed defaul sprite sprites
+
+
+

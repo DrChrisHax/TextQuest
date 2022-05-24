@@ -1,0 +1,11 @@
+Text Quest
+Version: 0.0.6
+Date: 5/13/2022
+
+Change Log:
+
+Updated water tile
+Added object interaction functionality
+Added keys to increase and decrease player speed
+
+Potion interaction causes game crash

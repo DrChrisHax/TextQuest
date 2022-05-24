@@ -1,0 +1,15 @@
+Text Quest
+Version: 0.0.7
+Date: 5/22/2022
+
+Change Log:
+
+Added sound
+Updated Keys
+Fixed potion bug
+Fixed entity bug
+Added UI components 
+Updated map and map objects
+Added press T to return to start
+Added win message
+Make walking and stopping look more natural 

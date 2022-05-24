@@ -1,0 +1,17 @@
+Text Quest
+Version: 0.0.3
+Date: 4/22/2022
+
+Change Log:
+
+Added classes (types)
+Includes Cleric, Thief, Wizard, & Warrior
+Added Races
+Includes Human, Dwarf, Elf
+Add a basic text based character creation
+
+Removed all graphics and menus, pngs still exist
+
+
+Still need to implement Menu, Graphics, Dungeon System, Open world, battle, enemies, etc.
+

@@ -1,0 +1,14 @@
+Text Quest
+Version: 0.0.6
+Date: 5/12/2022
+
+Change Log:
+
+Added new objects, cannot interact with them yet
+Added keys, boss keys, doors, chests, potions, and swamp tile
+Slightly changed world map
+Added secret button to turn toggle collisions (Player can move through things) WARNING: Hitting world edge will cause error
+
+
+
+

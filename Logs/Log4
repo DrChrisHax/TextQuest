@@ -1,0 +1,18 @@
+Text Quest
+Version: 0.0.4
+Date: 4/24/2022
+
+Change Log:
+
+Found a 2D game tutorial to follow
+https://www.youtube.com/watch?v=om59cwR7psI&t=2s
+
+Finished first 3 videos
+
+Change Log:
+Craeted a game panel that holds everything
+Can take user input
+Created a player character that moves
+Added very basic sprites for Warrior(may change to knight) and wizard class
+
+
