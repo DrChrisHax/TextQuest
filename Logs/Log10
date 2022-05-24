@@ -4,5 +4,5 @@ Date: 5/24/2022
 
 Change Log:
 
-Improved render speed
+Improved render speed (~5-6ms to ~3-4 ms) Will make it easier to have more entites later 
 Added debug menu (F3)
