@@ -27,7 +27,7 @@ public class Main {
 		window.setResizable(false);
 		window.setTitle("Text Quest");
 		
-		//Image img = Toolkit.getDefaultToolkit().getImage("C:\\Users\\cmanl\\Desktop\\TextQuest Images\\TextQuest.png");
+		
 		//window.setIconImage(img);
 		
 		GamePanel gamePanel = new GamePanel();
